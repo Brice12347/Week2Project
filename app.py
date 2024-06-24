@@ -1,0 +1,2 @@
+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
+git remove set-url origin https://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@github.com/Brice12347/Week2Project
